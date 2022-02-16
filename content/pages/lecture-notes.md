@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 5f85de59-109b-d1ba-1240-11f2f689453b
 ---
@@ -103,7 +106,7 @@ TOPICS
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Sheaves, Invertible Sheaves on P1 (PDF)]({{< baseurl >}}/resources/mit18_725f15_lec10)
+[Sheaves, Invertible Sheaves on P{{< sup "1" >}} (PDF)]({{< baseurl >}}/resources/mit18_725f15_lec10)
 {{< tdclose >}}
 
 {{< trclose >}}

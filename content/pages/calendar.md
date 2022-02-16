@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 84754ef9-261a-373c-4e8a-b306455be661
 ---
@@ -133,7 +135,7 @@ Chow's Lemma, Blowups
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Sheaves, Invertible Sheaves on P1
+Sheaves, Invertible Sheaves on P{{< sup "1" >}}
 {{< tdclose >}}
 {{< tdopen >}}
  

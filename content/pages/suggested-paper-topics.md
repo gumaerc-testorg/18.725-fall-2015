@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Suggested Paper Topics
 uid: 1684a41c-0dbf-17eb-5f87-2857b05304c6
 ---
@@ -16,7 +18,7 @@ Cremona group of birational automorphisms of the plane: examples of finite subgr
 
 Some results and example on the construction of Hilbert schemes parametrizing subvarieties in a projective space. Reference: \[14\].
 
-Rational double point surface singularities and finite subgroups in SL(2), classification in terms of simply-laced Dynkin graphs (_A_n, _D_n, _E_6, _E_7, _E_8). Refrences: \[2\], \[5\], \[9\].
+Rational double point surface singularities and finite subgroups in SL(2), classification in terms of simply-laced Dynkin graphs (_A_{{< sub "n" >}}, _D_{{< sub "n" >}}, _E_{{< sub "6" >}}, _E_{{< sub "7" >}}, _E_{{< sub "8" >}}). Refrences: \[2\], \[5\], \[9\].
 
 28 bitangents to a quartic plane curve and theta characteristics (square roots of the canonical line bundle). References: \[11\], \[8\].
 
