@@ -5,6 +5,7 @@ file: /courses/18-725-algebraic-geometry-fall-2015/ec341c7a2524e5dba7c3e939f3226
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Notes
 uid: ec341c7a-2524-e5db-a7c3-e939f322613a
 ---
 This resource contains the information regarding notes.
-
