@@ -7,19 +7,15 @@ leftnav:
   name: Calendar
   pageRef: /pages/calendar
   weight: 20
-- identifier: cc80fd5e-6c14-b14f-0551-b91536a50b06
-  name: Instructor Insights
-  pageRef: /pages/instructor-insights
-  weight: 30
 - identifier: 5f85de59-109b-d1ba-1240-11f2f689453b
   name: Lecture Notes
   pageRef: /pages/lecture-notes
-  weight: 40
+  weight: 30
 - identifier: c02c496e-81b8-5877-f2b6-888eb51200ad
   name: Assignments
   pageRef: /pages/assignments
-  weight: 50
+  weight: 40
 - identifier: 1684a41c-0dbf-17eb-5f87-2857b05304c6
   name: Suggested Paper Topics
   pageRef: /pages/suggested-paper-topics
-  weight: 60
+  weight: 50

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding notes.
 file: /courses/18-725-algebraic-geometry-fall-2015/ec341c7a2524e5dba7c3e939f322613a_MIT18_725F15_notes.pdf
+file_size: 863420
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
