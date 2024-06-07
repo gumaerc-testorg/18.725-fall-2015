@@ -26,6 +26,7 @@
     "website": "18-725-algebraic-geometry-fall-2015"
   },
   "course_title": "Algebraic Geometry",
+  "hide_download": false,
   "course_description": "This is the first semester of a two-semester sequence on Algebraic Geometry. The goal of the course is to introduce the basic notions and techniques of modern algebraic geometry. It covers fundamental notions and results about algebraic varieties over an algebraically closed field; relations between complex algebraic varieties and complex analytic varieties; and examples with emphasis on algebraic curves and surfaces. This course is an introduction to the language of schemes and properties of morphisms.\n",
   "department_numbers": [
     "18"
@@ -38,8 +39,7 @@
   },
   "learning_resource_types": [
     "Lecture Notes",
-    "Problem Sets",
-    "Instructor Insights"
+    "Problem Sets"
   ],
   "site_uid": "e4929c70-04fa-41fc-8f1a-bff68fb7623a",
   "site_short_id": "18.725-fall-2015",
