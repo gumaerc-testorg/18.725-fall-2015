@@ -28,11 +28,11 @@ Textbooks
 
 The theory will be presented mostly following:
 
-Kempf, G. _Algebraic Varieties_. Cambridge University Press, 1993. ISBN: 9780521426138 \[Preview with {{% resource_link "b768fa11-505e-438b-ab43-36df82c6c847" "Google Books" %}}\], complemented with examples from other sources, especially Shafarevich, Igor R. _Basic Algebraic Geometry 1: Varieties in Projective Space_. Springer, 2013. ISBN: 9783642379550 and Hartshorne, Robin. _Algebraic Geometry_. Springer, 1997. ISBN: 9780387902449. \[Preview with {{% resource_link "cb631d84-15af-4cba-a9d3-bd81828df97a" "Google Books" %}}\]
+Kempf, G. _Algebraic Varieties_. Cambridge University Press, 1993. ISBN: 9780521426138 \[Preview with [Google Books](http://books.google.com/books?id=fKzq70gupnEC&pg=PAfrontcover)\], complemented with examples from other sources, especially Shafarevich, Igor R. _Basic Algebraic Geometry 1: Varieties in Projective Space_. Springer, 2013. ISBN: 9783642379550 and Hartshorne, Robin. _Algebraic Geometry_. Springer, 1997. ISBN: 9780387902449. \[Preview with [Google Books](http://books.google.com/books?id=3rtX9t-nnvwC&pg=PAfrontcover)\]
 
 Time permitting we will introduce schemes following:
 
-Hartshorne, Robin. _Algebraic Geometry_. Springer, 1997. ISBN: 9780387902449 \[Preview with {{% resource_link "cb631d84-15af-4cba-a9d3-bd81828df97a" "Google Books" %}}\] and / or cover some intersection theory following Shafarevich, Igor R. Chapter 4 in _Basic Algebraic Geometry_ _1: Varieties in Projective Space_. Springer, 2013. ISBN: 9783642379550.
+Hartshorne, Robin. _Algebraic Geometry_. Springer, 1997. ISBN: 9780387902449 \[Preview with [Google Books](http://books.google.com/books?id=3rtX9t-nnvwC&pg=PAfrontcover)\] and / or cover some intersection theory following Shafarevich, Igor R. Chapter 4 in _Basic Algebraic Geometry_ _1: Varieties in Projective Space_. Springer, 2013. ISBN: 9783642379550.
 
 Homework
 --------
