@@ -33,11 +33,11 @@ Examples of noncatenary commutative rings. Reference: \[13\].
 
 \[2\] Artin, *On Isolated Rational Singularities of Surfaces.* American Journal of Mathematics 88 (1966), 129136.
 
-\[3\] Bonavero, {{% resource_link "3812c8f1-b717-45a6-87f2-e6b055961108" "*Lectures on Toric Varieties*" %}}, Lecture 14.
+\[3\] Bonavero, [*Lectures on Toric Varieties*](https://www.msri.org/summer_schools/455/schedules/3538), Lecture 14.
 
 \[4\] Brion, *Lectures on the Geometry of Flag Varieties*, available at arxiv.org.
 
-\[5\] Burban, {{% resource_link "93b47e13-2d2a-4d21-a370-9074d8579ec7" "*Du Val Singularities* (PDF)" %}}.
+\[5\] Burban, [*Du Val Singularities* (PDF)](http://www.mi.uni-koeln.de/~burban/singul.pdf).
 
 \[6\] Cox, Little, O'Shea, *Using Algebraic Geometry*, Graduate Texts in Mathematics, 185. Springer, New York, 2005.
 
@@ -51,7 +51,7 @@ Examples of noncatenary commutative rings. Reference: \[13\].
 
 \[11\] Griffiths, Harris, *Principles of Algebraic Geometry*. Wiley-Interscience, 1994.
 
-\[12\] Hartshorne, *Algebraic Geometry*, Graduate Texts in Mathematics. Springer, 1997. ISBN: 9780387902449. \[Preview with {{% resource_link "cb631d84-15af-4cba-a9d3-bd81828df97a" "Google Books" %}}\]
+\[12\] Hartshorne, *Algebraic Geometry*, Graduate Texts in Mathematics. Springer, 1997. ISBN: 9780387902449. \[Preview with [Google Books](http://books.google.com/books?id=3rtX9t-nnvwC&pg=PAfrontcover)\]
 
 \[13\] Heitmann, *Examples of Noncatenary Rings.* Trans. AMS, 247 (1979), 125-136.
 
